@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Background and Surface -->
+    <color name="app_bg">#F5F7FB</color> <!-- Light gray-blue background -->
+    <color name="surface">#FFFFFFFF</color>
+
+    <!-- Brand / Primary Theme -->
+    <color name="brand_primary">#5B86E5</color>         <!-- Primary blue -->
+    <color name="brand_primary_dark">#3B5BB5</color>    <!-- Darker shade for status bar or pressed states -->
+    <color name="accent">#36D1DC</color>                <!-- Gradient or secondary color -->
+
+    <!-- Text Colors -->
+    <color name="text_main">#1E1E2D</color>             <!-- Main text color -->
+    <color name="text_dim">#6B7280</color>              <!-- Secondary/dimmed text -->
+
+    <!-- Utility / Status -->
+    <color name="divider">#FFE6EAF2</color>             <!-- Divider line -->
+    <color name="on_primary">#FFFFFFFF</color>          <!-- Text/icon color on top of brand_primary -->
+</resources>
